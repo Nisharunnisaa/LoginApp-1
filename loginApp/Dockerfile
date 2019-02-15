@@ -1,6 +1,5 @@
 # Start with a base image containing Tomcat
 FROM tomcat
-FROM java:8
 
 # Add Maintainer Info
 LABEL maintainer="loginapp@miracle.com"
