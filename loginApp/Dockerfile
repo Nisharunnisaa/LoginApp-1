@@ -5,6 +5,6 @@ FROM tomcat
 LABEL maintainer="loginapp@miracle.com"
 
 # Copy war file
-COPY ./loginapp/target/login.war /usr/local/tomcat/webapps/
+COPY ./target/login.war /usr/local/tomcat/webapps/
 
 
