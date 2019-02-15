@@ -3,7 +3,7 @@ FROM tomcat
 FROM java:8
 
 # Add Maintainer Info
-LABEL maintainer="detaileapp@miracle.com"
+LABEL maintainer="loginapp@miracle.com"
 
 # Copy war file
 COPY ./loginapp/target/login.war /usr/local/tomcat/webapps/
