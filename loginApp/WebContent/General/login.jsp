@@ -4,7 +4,7 @@
 <html>
 
 <head>
-<title> Login Application for Jenkins</title>
+<title> Login Application:Jenkins</title>
 
 <style>
     header, footer {
