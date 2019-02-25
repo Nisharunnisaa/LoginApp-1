@@ -4,7 +4,7 @@
 <html>
 
 <head>
-<title> Login Application </title>
+<title> Login Application for Jenkins </title>
 
 <style>
     header, footer {
@@ -20,7 +20,7 @@ padding: 1em;
 
 <body bgcolor="white">
 
-<header><h2><b> MiRACLE SOFTWARE SYSTEMS </b></h2></header>
+<header><h2><b> MiRACLE SOFTWARE SYSTEMS: Innovation </b></h2></header>
 
 <center>
 
